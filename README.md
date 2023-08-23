@@ -4,7 +4,16 @@ Short-term I'm focused in being a better software developer by solving challenge
 
 ## Technical Skills
 ### Languages
-- C#
+[![My Skills](https://skillicons.dev/icons?i=cs,js,java,kotlin,html,css)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,dotnet,express)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### More interesting skills...
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,git)](https://skillicons.dev)
 
 
 <!--
