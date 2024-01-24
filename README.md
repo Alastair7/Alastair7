@@ -4,7 +4,7 @@ Short-term I'm focused in being a better software engineer by solving challenges
 
 ## Technical Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,js,java,kotlin,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,kotlin,html,css,cpp,go)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,dotnet,express)](https://skillicons.dev)
