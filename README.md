@@ -1,6 +1,6 @@
 # Hi! I'm Alex 👋😄
 I'm a Software Developer who likes to code (duh). I'm aiming to have enough knowledge and experience to become a Software Architect which is my long-term objective.
-Short-term I'm focused in being a better software developer by solving challenges at work or in my own projects, collaborating in Open Source projects, reading books and socializing with devs from the Internet.
+Short-term I'm focused in being a better software engineer by solving challenges at work or in my own projects, collaborating in Open Source projects, reading books and socializing with devs from the Internet/work/world.
 
 ## Technical Skills
 ### Languages
