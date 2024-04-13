@@ -1,6 +1,5 @@
 # Hi! I'm Alex 👋😄
-I'm a Software Engineer who likes to code and problem solving (duh). I'm aiming to have enough knowledge and experience to become a Software Architect which is my long-term objective.
-Short-term I'm focused in being a better software engineer by solving challenges at work or in my own projects, collaborating in Open Source projects, reading books and socializing with devs from the Internet/work/world.
+I'm a Software Engineer. I like building software, problem solving and learning about how things work in-depth.
 
 ## Technical Skills
 ### Languages
