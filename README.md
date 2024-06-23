@@ -3,7 +3,7 @@ I'm a Software Engineer. I like building software, problem solving and learning 
 
 ## Technical Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,kotlin,html,css,cpp,go,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,go,lua)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,dotnet,express)](https://skillicons.dev)
