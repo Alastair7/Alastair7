@@ -1,8 +1,14 @@
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/21d037f9-ba8a-4c00-adf0-b2159a4c6a4d)
-# Hi! I'm Alex 👋😄
-I'm a Software Engineer. I like building software, problem solving and learning about how things work in-depth.
+# Alex here 👋😄
+I'm a Software Engineer. I like building software, problem solving and learning about how things actually work.
 
-## Technical Skills
+I tend to build side projects by pure curiosity about how X works or just because some crazy (probably not millonaire) idea runs through my head.
+
+
+
+
+
+## Skills
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,go,lua)](https://skillicons.dev)
 
@@ -12,7 +18,7 @@ I'm a Software Engineer. I like building software, problem solving and learning 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-### More interesting skills...
+### More skills
 [![My Skills](https://skillicons.dev/icons?i=docker,azure,git)](https://skillicons.dev)
 
 
