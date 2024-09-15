@@ -1,3 +1,4 @@
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/21d037f9-ba8a-4c00-adf0-b2159a4c6a4d)
 # Hi! I'm Alex 👋😄
 I'm a Software Engineer. I like building software, problem solving and learning about how things work in-depth.
 
