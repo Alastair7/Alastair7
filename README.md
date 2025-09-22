@@ -8,8 +8,8 @@ I tend to build side projects by pure curiosity about how X works or just becaus
 
 
 
-## Skills
-### Stack
+## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,go,lua)](https://skillicons.dev)
 
 ### Frameworks & Libraries
@@ -19,7 +19,7 @@ I tend to build side projects by pure curiosity about how X works or just becaus
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### More skills
-[![My Skills](https://skillicons.dev/icons?i=docker,azure,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,git,terraform)](https://skillicons.dev)
 
 
 <!--
