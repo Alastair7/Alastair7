@@ -1,5 +1,4 @@
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/21d037f9-ba8a-4c00-adf0-b2159a4c6a4d)
-# Alex here 👋😄
+# Alastair
 Software engineer focused on backend development, distributed systems, and building reliable applications. 
 I mainly work on backend projects but I also have experience building frontend interfaces.
 
