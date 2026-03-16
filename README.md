@@ -56,4 +56,4 @@ Scales images to fit the PDF page and allows simple, fast conversions via a web 
 
 ## Connect
 - LinkedIn: [linkedin.com/in/alexandru-ban](https://linkedin.com/in/alexandru-ban)
-- Email: alexandruban9815@gmail.com
+- Email: alexandruban9815@gmail.com or alexandru.ban.drmer@gmail.com (I use both)
